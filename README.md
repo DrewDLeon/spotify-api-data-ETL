@@ -6,10 +6,10 @@ Recomiendo altamente que si se desea saber el proceso de aprendizaje, data wrang
 
 #### Link
 - La documentación sobre los pasos en un cuaderno de Notion.
-shorturl.at/cNR57
+[Click Aqui](shorturl.at/cNR57)
 
 - El cuaderno de Google Colab en el cual se realizaron las practicas, y se jugó con los datos.
-shorturl.at/qrs13
+[Click Aqui](shorturl.at/qrs13)
 
 
 
