@@ -1,3 +1,5 @@
+![FBImage](https://user-images.githubusercontent.com/76247635/215654615-61bd57e5-64cd-44b0-a014-03a20ce3b537.png)
+
 # spotify-api-data-ETL
 Esta fue un proyecto de aprendizaje y de manejo ETL documentado al 100% en uso de la API de Spotify Developers con el proposito de automatizar procesos y hacer el manejo de una cuenta de usuario de Spotify mas simple.
 
